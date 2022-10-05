@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-prueba2
-=======
-prueba1
->>>>>>> ramaCami
+Prueba gabs
